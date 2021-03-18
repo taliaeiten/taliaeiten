@@ -1,7 +1,7 @@
  Hi, I’m @taliaeiten
-- I am a graphic design student at the University of Massachusetts Dartmouth. Art has always played an important part in my life, in fact much of my family are artists. It was not until Junior year of high school that I became interested in the world of graphic design. I started with designing digital collages, which is still my favorite style of art.
+- I am a graphic design student at the University of Massachusetts Dartmouth. Art has always played an important part in my life, in fact much of my family are artists. It was not until Junior year of high school that I became interested in the world of graphic design. I started with designing digital collages, which is still my favorite style of art. I am currently working on my portfolio site, so stay tuned for that. 
 
-You can contact me through my instagram @taliaeiten or by email taliaeiten@gmail.com
+For now, you can contact me through my instagram @taliaeiten or by email taliaeiten@gmail.com. I would love the chat! 
 
 <!---
 taliaeiten/taliaeiten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
